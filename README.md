@@ -1,7 +1,5 @@
 # Google Drive Photo Upload Project
 
-## Description
-
 This project is a simple Laravel application designed to handle photo uploads directly to Google Drive. Users can upload images via a web form, with the option to specify a custom file name. The application integrates with Google Drive using Laravel's filesystem abstraction.
 
 ## Features
